@@ -14,7 +14,7 @@ body {
   background: black;
   border-radius: 50px;
   color: white;
-  height: 800px;
+  height: 900px;
   padding: 20px;
   position: relative;
   width: 563px;
@@ -22,7 +22,7 @@ body {
 
 .top-container {
   display: flex;
-  height: 250px;
+  height: 0px;
   justify-content: space-between;
   padding: 0 20px;
 }
